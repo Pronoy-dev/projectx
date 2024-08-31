@@ -24,4 +24,11 @@ img {
   margin: auto;
 }
 
+.item{
+  display: flex;
+}
+.header{
+  display: flex;
+}
+
 /*  =================== css ================== */
